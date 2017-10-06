@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "YXWAUFGaKLSE8BIaCUIxAEW87s4=",
+			"path": "github.com/sethgrid/pester",
+			"revision": "0af5bab1e1ea2860c5aef8e77427bab011d774d8",
+			"revisionTime": "2017-09-19T13:57:42Z"
+		}
+	],
+	"rootPath": "github.com/younisshah/breyta"
+}
